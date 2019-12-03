@@ -66,12 +66,28 @@ body {
       
   .nav-item {
     padding: 15px;
-  }
-
-  .img-container {
-    float: "left";
   }  
+
+  /* main container */
+  #main-container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 40px 0 30px 0;
+    padding: 30px;
+  }
   
+  /* footer */
+  footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
   /*
   #masthead {
     position: fixed;
