@@ -38,6 +38,10 @@ body {
   h3 {
     font-size: 22px;
   }
+
+  article {
+    padding-bottom: 30px;
+  }
   
   /* navbar */
   .container {
