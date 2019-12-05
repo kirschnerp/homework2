@@ -92,4 +92,15 @@ body {
     border-top: 8px solid #4aaaa5;
     height: 50px;
   }
+ 
+  @media only screen and (max-width: 768px) {
+    body {
+      background-color: lightgreen;
+      color: white;
+    }
+  
+    .container {
+      width: 600px;
+    }
+  }
   
