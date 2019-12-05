@@ -93,14 +93,13 @@ body {
     height: 50px;
   }
  
-  @media only screen and (max-width: 768px) {
+  @media screen and (max-width: 600px) {
     body {
       background-color: lightgreen;
-      color: white;
     }
   
     .container {
-      width: 600px;
+      width: 480px;
     }
   }
   
